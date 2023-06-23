@@ -1,8 +1,0 @@
-function azulPisca(){
-    setTimeout(()=>{
-        azul.style.backgroundColor='#0000FF'
-     },500);
-     azul.style.backgroundColor='#00BFFF';
-     vetjogador.push(4);
-     console.log('Jogador ' + vetjogador);
-}
